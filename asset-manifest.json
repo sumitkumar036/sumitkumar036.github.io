@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sumitportfolio/static/css/main.96c02b43.css",
-    "main.js": "/sumitportfolio/static/js/main.1f01a6bb.js",
+    "main.js": "/sumitportfolio/static/js/main.d4c11e1c.js",
     "static/js/453.92d80d59.chunk.js": "/sumitportfolio/static/js/453.92d80d59.chunk.js",
     "static/media/alten.png": "/sumitportfolio/static/media/alten.bd4994c16f893d784e97.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/sumitportfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -15,11 +15,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/sumitportfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/sumitportfolio/index.html",
     "main.96c02b43.css.map": "/sumitportfolio/static/css/main.96c02b43.css.map",
-    "main.1f01a6bb.js.map": "/sumitportfolio/static/js/main.1f01a6bb.js.map",
+    "main.d4c11e1c.js.map": "/sumitportfolio/static/js/main.d4c11e1c.js.map",
     "453.92d80d59.chunk.js.map": "/sumitportfolio/static/js/453.92d80d59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96c02b43.css",
-    "static/js/main.1f01a6bb.js"
+    "static/js/main.d4c11e1c.js"
   ]
 }
