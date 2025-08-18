@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6f125d8e.css",
+    "main.js": "/portfolio/static/js/main.3e459908.js",
+    "static/js/453.92d80d59.chunk.js": "/portfolio/static/js/453.92d80d59.chunk.js",
+    "static/media/alten.png": "/portfolio/static/media/alten.bd4994c16f893d784e97.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/mrsingh.png": "/portfolio/static/media/mrsingh.314fae08936dd8862c69.png",
+    "static/media/fontawesome-webfont.eot": "/portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/sumit.jpg": "/portfolio/static/media/sumit.bc69756d64cf82bed8a9.jpg",
+    "static/media/configurator.png": "/portfolio/static/media/configurator.34b9e5c09dcefe86fcd3.png",
+    "static/media/hmel.png": "/portfolio/static/media/hmel.0d4a0dd46c4c8f505d44.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/portfolio/index.html",
+    "main.6f125d8e.css.map": "/portfolio/static/css/main.6f125d8e.css.map",
+    "main.3e459908.js.map": "/portfolio/static/js/main.3e459908.js.map",
+    "453.92d80d59.chunk.js.map": "/portfolio/static/js/453.92d80d59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f125d8e.css",
+    "static/js/main.3e459908.js"
+  ]
+}
