@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sumitportfolio/static/css/main.96c02b43.css",
-    "main.js": "/sumitportfolio/static/js/main.d4c11e1c.js",
-    "static/js/453.92d80d59.chunk.js": "/sumitportfolio/static/js/453.92d80d59.chunk.js",
-    "static/media/alten.png": "/sumitportfolio/static/media/alten.bd4994c16f893d784e97.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/sumitportfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/mrsingh.png": "/sumitportfolio/static/media/mrsingh.314fae08936dd8862c69.png",
-    "static/media/fontawesome-webfont.eot": "/sumitportfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/sumitportfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/sumit.jpg": "/sumitportfolio/static/media/sumit.bc69756d64cf82bed8a9.jpg",
-    "static/media/configurator.png": "/sumitportfolio/static/media/configurator.34b9e5c09dcefe86fcd3.png",
-    "static/media/hmel.png": "/sumitportfolio/static/media/hmel.0d4a0dd46c4c8f505d44.png",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/sumitportfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/sumitportfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/sumitportfolio/index.html",
-    "main.96c02b43.css.map": "/sumitportfolio/static/css/main.96c02b43.css.map",
-    "main.d4c11e1c.js.map": "/sumitportfolio/static/js/main.d4c11e1c.js.map",
-    "453.92d80d59.chunk.js.map": "/sumitportfolio/static/js/453.92d80d59.chunk.js.map"
+    "main.css": "/static/css/main.03e186ed.css",
+    "main.js": "/static/js/main.af3369e8.js",
+    "static/js/453.92d80d59.chunk.js": "/static/js/453.92d80d59.chunk.js",
+    "static/media/alten.png": "/static/media/alten.bd4994c16f893d784e97.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/mrsingh.png": "/static/media/mrsingh.314fae08936dd8862c69.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/sumit.jpg": "/static/media/sumit.bc69756d64cf82bed8a9.jpg",
+    "static/media/configurator.png": "/static/media/configurator.34b9e5c09dcefe86fcd3.png",
+    "static/media/hmel.png": "/static/media/hmel.0d4a0dd46c4c8f505d44.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/index.html",
+    "main.03e186ed.css.map": "/static/css/main.03e186ed.css.map",
+    "main.af3369e8.js.map": "/static/js/main.af3369e8.js.map",
+    "453.92d80d59.chunk.js.map": "/static/js/453.92d80d59.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96c02b43.css",
-    "static/js/main.d4c11e1c.js"
+    "static/css/main.03e186ed.css",
+    "static/js/main.af3369e8.js"
   ]
 }
